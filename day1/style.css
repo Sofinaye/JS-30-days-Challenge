@@ -1,6 +1,7 @@
 html{
     font-size: 10px;
-    background: url('./background.jpg')
+    background: url('./background.jpg');
+    background-size: cover;
 }
 
 body, html {
@@ -28,6 +29,7 @@ body, html {
     text-align: center;
     color: #fff;
     background: rgba(0,0,0,0.4);
+    text-shadow: 0 0 .5rem black;
 }
 
 kbd {
