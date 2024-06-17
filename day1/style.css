@@ -29,3 +29,8 @@ body, html {
     color: #fff;
     background: rgba(0,0,0,0.4);
 }
+
+kbd {
+    display: block;
+    font-size: 4rem;
+}
