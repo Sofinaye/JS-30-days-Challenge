@@ -13,6 +13,12 @@ body {
     --blure:10px;
 }
 
+.img {
+    width: 100vw;
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+}
 .controls {
     margin-bottom: 50px;
 }
