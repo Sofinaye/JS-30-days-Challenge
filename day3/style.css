@@ -7,6 +7,12 @@ body {
     font-size: 50px;
 }
 
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blure:10px;
+}
+
 .controls {
     margin-bottom: 50px;
 }
